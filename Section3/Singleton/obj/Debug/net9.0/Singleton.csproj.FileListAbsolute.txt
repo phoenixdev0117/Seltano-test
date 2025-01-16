@@ -1,0 +1,15 @@
+D:\Github\Seltano-test\Section3\Singleton\obj\Debug\net9.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Seltano-test\Section3\Singleton\obj\Debug\net9.0\Singleton.AssemblyInfoInputs.cache
+D:\Github\Seltano-test\Section3\Singleton\obj\Debug\net9.0\Singleton.AssemblyInfo.cs
+D:\Github\Seltano-test\Section3\Singleton\obj\Debug\net9.0\Singleton.csproj.CoreCompileInputs.cache
+D:\Github\Seltano-test\Section3\Singleton\obj\Debug\net9.0\Singleton.sourcelink.json
+D:\Github\Seltano-test\Section3\Singleton\bin\Debug\net9.0\Singleton.exe
+D:\Github\Seltano-test\Section3\Singleton\bin\Debug\net9.0\Singleton.deps.json
+D:\Github\Seltano-test\Section3\Singleton\bin\Debug\net9.0\Singleton.runtimeconfig.json
+D:\Github\Seltano-test\Section3\Singleton\bin\Debug\net9.0\Singleton.dll
+D:\Github\Seltano-test\Section3\Singleton\bin\Debug\net9.0\Singleton.pdb
+D:\Github\Seltano-test\Section3\Singleton\obj\Debug\net9.0\Singleton.dll
+D:\Github\Seltano-test\Section3\Singleton\obj\Debug\net9.0\refint\Singleton.dll
+D:\Github\Seltano-test\Section3\Singleton\obj\Debug\net9.0\Singleton.pdb
+D:\Github\Seltano-test\Section3\Singleton\obj\Debug\net9.0\Singleton.genruntimeconfig.cache
+D:\Github\Seltano-test\Section3\Singleton\obj\Debug\net9.0\ref\Singleton.dll

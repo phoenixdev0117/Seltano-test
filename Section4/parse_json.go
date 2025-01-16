@@ -1,10 +1,11 @@
 package main
 
 import (
-    "encoding/json"
-    "fmt"
+    "encoding/json" // Import package for JSON encoding and decoding
+    "fmt" // Import package for formatted I/O operations
 )
 
+// Define a struct to match the JSON structure we expect to parse.
 type Person struct {
     Name  string `json:"name"`
     Age   int    `json:"age"`

@@ -1,0 +1,15 @@
+D:\Github\Seltano-test\Section3\BankAccount\obj\Debug\net9.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Seltano-test\Section3\BankAccount\obj\Debug\net9.0\BankAccount.AssemblyInfoInputs.cache
+D:\Github\Seltano-test\Section3\BankAccount\obj\Debug\net9.0\BankAccount.AssemblyInfo.cs
+D:\Github\Seltano-test\Section3\BankAccount\obj\Debug\net9.0\BankAccount.csproj.CoreCompileInputs.cache
+D:\Github\Seltano-test\Section3\BankAccount\obj\Debug\net9.0\BankAccount.sourcelink.json
+D:\Github\Seltano-test\Section3\BankAccount\bin\Debug\net9.0\BankAccount.exe
+D:\Github\Seltano-test\Section3\BankAccount\bin\Debug\net9.0\BankAccount.deps.json
+D:\Github\Seltano-test\Section3\BankAccount\bin\Debug\net9.0\BankAccount.runtimeconfig.json
+D:\Github\Seltano-test\Section3\BankAccount\bin\Debug\net9.0\BankAccount.dll
+D:\Github\Seltano-test\Section3\BankAccount\bin\Debug\net9.0\BankAccount.pdb
+D:\Github\Seltano-test\Section3\BankAccount\obj\Debug\net9.0\BankAccount.dll
+D:\Github\Seltano-test\Section3\BankAccount\obj\Debug\net9.0\refint\BankAccount.dll
+D:\Github\Seltano-test\Section3\BankAccount\obj\Debug\net9.0\BankAccount.pdb
+D:\Github\Seltano-test\Section3\BankAccount\obj\Debug\net9.0\BankAccount.genruntimeconfig.cache
+D:\Github\Seltano-test\Section3\BankAccount\obj\Debug\net9.0\ref\BankAccount.dll
